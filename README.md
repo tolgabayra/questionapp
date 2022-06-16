@@ -69,6 +69,7 @@ This is an example of how to list things you need to use the software and how to
 * cd apiserver
   ```sh
   composer require laravel/laravel
+  php artisan vendor:publish
   php artisan serve
 
   ```
