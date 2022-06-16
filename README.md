@@ -23,7 +23,9 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://im3.ezgif.com/tmp/ezgif-3-3f25b35e78.gif)
-![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-3f25b35e78.gif)
+![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-a6601fa2e9.gif)
+<br />
+
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
