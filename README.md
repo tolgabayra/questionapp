@@ -22,12 +22,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://im3.ezgif.com/tmp/ezgif-3-3f25b35e78.gif)
 ![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-a6601fa2e9.gif)
 <br />
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
+Ask your any question 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
@@ -35,7 +33,7 @@ Here's why:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,7 +90,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tolga BAYRAK - [@your_twitter](https://twitter.com/) - bayraktolga28@gmail.com
+Tolga BAYRAK - bayraktolga28@gmail.com
 
 Project Link: [https://github.com/tolgabayrakx/questionapp](https://github.com/tolgabayrakx/questionapp)
 
