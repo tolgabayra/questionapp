@@ -25,7 +25,7 @@
 It can be a trend according to the number of likes and comments that members can ask questions.
 
 
-![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-a6601fa2e9.gif)
+![Alt Text]
 <br />
 
 Ask your any question 
