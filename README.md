@@ -11,6 +11,7 @@
   </a>
 
   <h3 align="center">QuestionApp</h3>
+  
 
 
 </div>
@@ -21,6 +22,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+It can be a trend according to the number of likes and comments that members can ask questions.
+
 
 ![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-a6601fa2e9.gif)
 <br />
