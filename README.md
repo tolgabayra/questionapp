@@ -51,6 +51,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Laravel](https://laravel.com)
 * [TailwindCss](https://www.docker.com)
 * [Docker](https://www.docker.com)
+* [Vite](https://vitejs.com)
 
 
 
