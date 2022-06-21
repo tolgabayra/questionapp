@@ -52,6 +52,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [TailwindCss](https://www.docker.com)
 * [Docker](https://www.docker.com)
 * [Vite](https://vitejs.com)
+* [Redux](https://redux.js.org)
+
 
 
 
